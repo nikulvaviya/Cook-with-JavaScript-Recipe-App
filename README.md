@@ -1,6 +1,6 @@
 # Recipe App - Cook with JavaScript
 
-A modern and responsive Recipe App built with vanilla JavaScript. This app allows users to explore a variety of recipes, save their favorites, and view detailed information about each recipe. The app features a light and dark theme for an enhanced user experience.
+A modern and responsive Recipe App built with vanilla JavaScript and API. This app allows users to explore a variety of recipes, save their favorites, and view detailed information about each recipe. The app features a light and dark theme for an enhanced user experience.
 
 ## Features
 
