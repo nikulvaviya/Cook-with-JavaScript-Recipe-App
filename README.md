@@ -19,32 +19,41 @@ A modern and responsive Recipe App built with vanilla JavaScript and API. This a
 ## Screenshots
 
 ### Home Page
+
 ![Home Page 1](./assets/images/overview/home-page-1.png)
 ![Home Page 2](./assets/images/overview/home-page-2.png)
 ![Home Page 3](./assets/images/overview/home-page-3.png)
 
 ### Recipe Page
+
 ![Recipe Page](./assets/images/overview/recipe-page-1.png)
 
 ### Detail Page
+
 ![Detail Page](./assets/images/overview/detail-page.png)
 
 ### Saved Recipes Page
+
 ![Saved Recipes Page](./assets/images/overview/saved-page.png)
 
 ### Mobile View - Home Page
+
 ![Home Page](./assets/images/overview/home-page-mobile.png)
 
 ### Mobile View - Recipe Page
+
 ![Home Page](./assets/images/overview/recipe-page-mobile.png)
 
 ### Mobile View - Filter Bar
+
 ![Home Page](./assets/images/overview/filter-bar.png)
 
 ### Light Theme
+
 ![Home Page](./assets/images/overview/home-page-1.png)
 
 ### Dark Theme
+
 ![Home Page](./assets/images/overview/dark-home-page.png)
 
 ## Usage
